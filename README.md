@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="assets/ luminous-halder-alex-github-hero.png"
+  src="assets/hero-banner.svg"
   alt="Luminous Halder Alex - Full Stack Developer"
   width="100%"
 />
