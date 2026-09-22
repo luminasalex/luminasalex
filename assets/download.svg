@@ -1,0 +1,173 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020202"></stop>
+      <stop offset="50%" stop-color="#101010"></stop>
+      <stop offset="100%" stop-color="#000000"></stop>
+    </linearGradient>
+
+    <!-- Moving cinematic light -->
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"></stop>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity=".05"></stop>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity=".8"></stop>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity=".05"></stop>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"></stop>
+      <animate attributeName="x1" values="-2;1;-2" dur="5s" repeatCount="indefinite"></animate>
+      <animate attributeName="x2" values="0;3;0" dur="5s" repeatCount="indefinite"></animate>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="7" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Text glow -->
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid" width="55" height="55" patternUnits="userSpaceOnUse">
+      <path d="M 55 0 L 0 0 0 55" fill="none" stroke="#ffffff" stroke-opacity=".055" stroke-width="1"></path>
+    </pattern>
+
+    <!-- Scanline -->
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="#fff" stop-opacity=".12"></stop>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"></stop>
+    </linearGradient>
+
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1600" height="520" fill="url(#bg)"></rect>
+
+  <!-- Ambient glow -->
+  <ellipse cx="800" cy="260" rx="520" ry="180" fill="#ffffff" opacity=".025" filter="url(#glow)">
+    <animate attributeName="rx" values="420;560;420" dur="6s" repeatCount="indefinite"></animate>
+  </ellipse>
+
+  <!-- GRID -->
+  <rect width="1600" height="520" fill="url(#grid)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;55 55;0 0" dur="8s" repeatCount="indefinite"></animateTransform>
+  </rect>
+
+  <!-- CINEMATIC LIGHT BEAM -->
+  <rect x="-700" y="0" width="900" height="520" fill="url(#beam)" opacity=".35" transform="skewX(-18)">
+    <animateTransform attributeName="transform" type="translate" values="-900 0;1800 0;-900 0" dur="7s" repeatCount="indefinite"></animateTransform>
+  </rect>
+
+  <!-- PARTICLES -->
+  <g fill="#ffffff">
+
+    <circle cx="150" cy="120" r="2">
+      <animate attributeName="cy" values="120;80;120" dur="3s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values=".1;1;.1" dur="3s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <circle cx="320" cy="380" r="2">
+      <animate attributeName="cy" values="380;340;380" dur="4s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values=".2;.9;.2" dur="4s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <circle cx="1240" cy="140" r="2">
+      <animate attributeName="cy" values="140;100;140" dur="3.5s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values=".1;1;.1" dur="3.5s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <circle cx="1400" cy="350" r="2">
+      <animate attributeName="cy" values="350;300;350" dur="4.5s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values=".2;1;.2" dur="4.5s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <circle cx="1050" cy="410" r="1.5">
+      <animate attributeName="cy" values="410;370;410" dur="3s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <circle cx="540" cy="100" r="1.5">
+      <animate attributeName="cy" values="100;60;100" dur="3.8s" repeatCount="indefinite"></animate>
+    </circle>
+
+  </g>
+
+  <!-- HORIZONTAL LIGHT -->
+  <rect x="100" y="390" width="1400" height="1" fill="#ffffff" opacity=".15">
+
+    <animate attributeName="x" values="100;0;100" dur="4s" repeatCount="indefinite"></animate>
+
+    <animate attributeName="opacity" values=".05;.5;.05" dur="4s" repeatCount="indefinite"></animate>
+
+  </rect>
+
+  <!-- TOP LABEL -->
+  <text x="800" y="145" text-anchor="middle" fill="#9ca3af" font-family="monospace" font-size="17" letter-spacing="6">
+
+    &lt; FULL-STACK DEVELOPER /&gt;
+
+    <animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"></animate>
+
+  </text>
+
+  <!-- MAIN TITLE -->
+  <text x="800" y="230" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="5" filter="url(#textGlow)">
+
+    LUMINOUS HALDER ALEX
+
+    <animate attributeName="opacity" values=".75;1;.75" dur="4s" repeatCount="indefinite"></animate>
+
+  </text>
+
+  <!-- SUBTITLE -->
+  <text x="800" y="280" text-anchor="middle" fill="#bdbdbd" font-family="monospace" font-size="18" letter-spacing="3">
+
+    REACT • NEXT.JS • TYPESCRIPT • NODE.JS • UI/UX
+
+    <animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"></animate>
+
+  </text>
+
+  <!-- STATUS -->
+  <g transform="translate(800 335)">
+
+    <circle cx="-95" cy="0" r="5" fill="#ffffff">
+      <animate attributeName="r" values="4;7;4" dur="1.5s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <text x="-78" y="6" fill="#9ca3af" font-family="monospace" font-size="15" letter-spacing="2">
+
+      ONLINE • BUILDING • LEARNING
+
+    </text>
+
+  </g>
+
+  <!-- SCANLINE -->
+  <rect x="0" y="-100" width="1600" height="80" fill="url(#scan)" opacity=".35">
+
+    <animate attributeName="y" values="-100;520;-100" dur="5s" repeatCount="indefinite"></animate>
+
+  </rect>
+
+  <!-- BOTTOM BORDER -->
+  <rect x="180" y="430" width="1240" height="1" fill="#ffffff" opacity=".18"></rect>
+
+  <text x="800" y="465" text-anchor="middle" fill="#666666" font-family="monospace" font-size="13" letter-spacing="4">
+
+    THINK → DESIGN → BUILD → TEST → SHIP → REPEAT
+
+  </text>
+
+</svg>
