@@ -8,7 +8,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=LUMINOUS%20HALDER%20ALEX&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%20ENGINEER%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descSize=17&color=0:050505,50:111111,100:1b1b1b" width="100%"/>
 
@@ -40,35 +40,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=luminasalex&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"/>
 
-</div>
+</div> -->
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Alex.dev...;%3E+Loading+developer+profile...;%3E+Loading+technologies...;%3E+Loading+projects...;%3E+System+ready+%E2%9C%93" />
-
-</div>
-
-<br>
-
-```text id="1a7b3c"
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   NAME        : Luminous Halder Alex                         │
-│   ROLE        : Full-Stack Developer                         │
-│   LOCATION    : Khulna, Bangladesh                           │
-│   EXPERIENCE  : 1+ Year                                      │
-│                                                              │
-│   CURRENTLY   : Learning • Building • Experimenting          │
-│   FOCUS       : Modern Web • UI/UX • Automation              │
-│                                                              │
-│   STATUS      : ● ONLINE                                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
 
 <div align="center">
 
@@ -193,7 +168,7 @@ PHP                   ████████████████░░░�
 Next.js               █████████████████░░░   LEARNING
 TypeScript            █████████████████░░░   LEARNING
 Node.js               ████████████████░░░░   LEARNING
-Express.js             ███████████████░░░░░   LEARNING
+Express.js            ███████████████░░░░░   LEARNING
 MongoDB               ███████████████░░░░░   LEARNING
 Firebase              ███████████████░░░░░   LEARNING
 REST API              ███████████████░░░░░   LEARNING
