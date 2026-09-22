@@ -1,5 +1,15 @@
 <div align="center">
 
+<img
+  src="./assets/luminous-halder-alex-github-hero.png"
+  alt="Luminous Halder Alex - Full Stack Developer"
+  width="100%"
+/>
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=LUMINOUS%20HALDER%20ALEX&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20UI%20ENGINEER%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descSize=17&color=0:050505,50:111111,100:1b1b1b" width="100%"/>
 
 <br>
