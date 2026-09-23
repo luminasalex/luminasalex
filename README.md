@@ -311,9 +311,9 @@ SYSTEM DESIGN         → ████████████░░░░░░
 
 <img src="https://streak-stats.demolab.com?user=luminasalex&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=666666"/></div><br><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=500&color=9CA3AF&center=true&vCenter=true&width=550&lines=ANALYTICS+SYNCED;%3E%3E%3E+CONTRIBUTION+DATA+LOADING..."/></div>---
 
-<div align="center">"11" — CONTRIBUTION SNAKE
+<div align="center">"11" — CONTRIBUTION FLOW
 
-<br><img src="https://raw.githubusercontent.com/luminasalex/luminasalex/output/github-contribution-grid-snake.svg" width="95%"/><br><br>
+<br><img src="assets/simple-wave.svg" width="95%"/><br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1600&pause=500&color=9CA3AF&center=true&vCenter=true&width=500&lines=EVERY+CONTRIBUTION+COUNTS;%3E%3E%3E+KEEP+MOVING"/></div>---
 
