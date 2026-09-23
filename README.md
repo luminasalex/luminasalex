@@ -307,7 +307,9 @@ SYSTEM DESIGN         → ████████████░░░░░░
 
 <img src="https://github-readme-stats.vercel.app/api?username=luminasalex&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff"/><br><br>
 
-</div><br><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=500&color=9CA3AF&center=true&vCenter=true&width=550&lines=ANALYTICS+SYNCED;%3E%3E%3E+CONTRIBUTION+DATA+LOADING..."/></div>---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminasalex&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9ca3af"/><br><br>
+
+<img src="https://streak-stats.demolab.com/?user=luminasalex&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=666666"/></div><br><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=500&color=9CA3AF&center=true&vCenter=true&width=550&lines=ANALYTICS+SYNCED;%3E%3E%3E+CONTRIBUTION+DATA+LOADING..."/></div>---
 
 <div align="center">"11" — CONTRIBUTION FLOW
 
