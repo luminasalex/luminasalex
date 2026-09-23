@@ -1,77 +1,55 @@
-<svg width="960" height="240" viewBox="0 0 960 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050816"/>
-      <stop offset="0.5" stop-color="#0A1227"/>
-      <stop offset="1" stop-color="#050816"/>
-    </linearGradient>
-    <linearGradient id="waveA" x1="80" y1="120" x2="880" y2="120" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7AF7C4"/>
-      <stop offset="0.5" stop-color="#7DD3FF"/>
-      <stop offset="1" stop-color="#C7A6FF"/>
-    </linearGradient>
-    <linearGradient id="waveB" x1="80" y1="150" x2="880" y2="150" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#93F9B9" stop-opacity="0.8"/>
-      <stop offset="0.5" stop-color="#7DD3FF" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#8FA2FF" stop-opacity="0.8"/>
+    <linearGradient id="waveGradient" x1="40" y1="110" x2="860" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CFFB2"/>
+      <stop offset="0.5" stop-color="#9AE6FF"/>
+      <stop offset="1" stop-color="#BFA3FF"/>
     </linearGradient>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <radialGradient id="dotGlow" cx="0" cy="0" r="1">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="0.35" stop-color="#9BE6FF"/>
-      <stop offset="1" stop-color="#9BE6FF" stop-opacity="0"/>
-    </radialGradient>
   </defs>
 
-  <rect x="12" y="12" width="936" height="216" rx="22" fill="url(#bg)"/>
-  <rect x="12" y="12" width="936" height="216" rx="22" stroke="#23314D" stroke-width="2"/>
+  <rect x="12" y="12" width="876" height="196" rx="18" fill="#0B1020"/>
+  <rect x="12" y="12" width="876" height="196" rx="18" stroke="#1F2A3D" stroke-width="2"/>
 
-  <g opacity="0.22" stroke="#DDEEFF" stroke-width="1">
-    <path d="M40 60H920"/>
-    <path d="M40 120H920"/>
-    <path d="M40 180H920"/>
+  <g opacity="0.22" stroke="#DDE7FF" stroke-width="1">
+    <path d="M40 60H860"/>
+    <path d="M40 160H860"/>
+    <path d="M40 110H860"/>
   </g>
 
-  <circle cx="140" cy="58" r="70" fill="url(#dotGlow)" opacity="0.42"/>
-  <circle cx="820" cy="150" r="110" fill="url(#dotGlow)" opacity="0.28"/>
-
-  <path d="M40 120C95 120 110 82 160 120C210 158 235 146 280 120C330 92 345 70 390 120C438 170 465 150 520 120C578 88 600 72 655 120C708 166 740 140 800 120C850 102 875 94 920 120" fill="none" stroke="url(#waveA)" stroke-width="6" stroke-linecap="round" filter="url(#glow)" stroke-dasharray="14 18">
-    <animate attributeName="stroke-dashoffset" from="0" to="-260" dur="3.5s" repeatCount="indefinite"/>
+  <path d="M40 110 C120 110, 150 70, 210 110 S310 150, 390 110 S490 70, 560 110 S680 150, 860 110" fill="none" stroke="url(#waveGradient)" stroke-width="5" stroke-linecap="round" filter="url(#glow)" stroke-dasharray="8 16">
+    <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="2.8s" repeatCount="indefinite"/>
   </path>
 
-  <path d="M40 150C120 150 145 104 195 150C248 196 286 172 335 150C390 126 420 94 470 150C520 206 560 164 620 150C675 136 705 110 760 150C815 190 848 165 920 150" fill="none" stroke="url(#waveB)" stroke-width="4" stroke-linecap="round" opacity="0.8" stroke-dasharray="10 14">
-    <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="2.8s" repeatCount="indefinite"/>
-  </path>
-
-  <g filter="url(#glow)">
-    <circle r="7" fill="#7AF7C4">
-      <animateMotion dur="4.4s" repeatCount="indefinite" rotate="auto">
+  <g fill="#7CFFB2" filter="url(#glow)">
+    <circle r="7">
+      <animateMotion dur="4s" repeatCount="indefinite" rotate="auto">
         <mpath href="#motionPath"/>
       </animateMotion>
     </circle>
-    <circle r="7" fill="#8FD8FF">
-      <animateMotion dur="4.4s" begin="0.9s" repeatCount="indefinite" rotate="auto">
+    <circle r="7">
+      <animateMotion dur="4s" begin="0.8s" repeatCount="indefinite" rotate="auto">
         <mpath href="#motionPath"/>
       </animateMotion>
     </circle>
-    <circle r="7" fill="#C7A6FF">
-      <animateMotion dur="4.4s" begin="1.8s" repeatCount="indefinite" rotate="auto">
+    <circle r="7">
+      <animateMotion dur="4s" begin="1.6s" repeatCount="indefinite" rotate="auto">
         <mpath href="#motionPath"/>
       </animateMotion>
     </circle>
   </g>
 
-  <path id="motionPath" d="M40 120C95 120 110 82 160 120C210 158 235 146 280 120C330 92 345 70 390 120C438 170 465 150 520 120C578 88 600 72 655 120C708 166 740 140 800 120C850 102 875 94 920 120" fill="none" stroke="transparent"/>
+  <path id="motionPath" d="M40 110 C120 110, 150 70, 210 110 S310 150, 390 110 S490 70, 560 110 S680 150, 860 110" fill="none" stroke="transparent"/>
 
-  <g fill="#EAF6FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">
-    <text x="90" y="50">BUILD</text>
-    <text x="395" y="50">LEARN</text>
-    <text x="700" y="50">SHIP</text>
+  <g fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">
+    <text x="82" y="52">BUILD</text>
+    <text x="362" y="52">LEARN</text>
+    <text x="600" y="52">SHIP</text>
   </g>
 </svg>
