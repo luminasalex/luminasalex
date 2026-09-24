@@ -413,7 +413,7 @@ Khulna Govt. Model School & College
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=700&lines=Have+an+idea%3F;Let's+build+something+great.;Let's+turn+ideas+into+real+products."/><br><br>
 
-<a href="https://<ax-alex.vercel.app/#contact">
+<a href="https://<ax-alex.vercel.app">
 <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-FFFFFF?style=for-the-badge&logoColor=000000"/>
 </a><br><br>
 
