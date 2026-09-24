@@ -417,7 +417,7 @@ Khulna Govt. Model School & College
 <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-FFFFFF?style=for-the-badge&logoColor=000000"/>
 </a><br><br>
 
-📧 alexhalder2007@gmail.com
+📧 luminas.alex@gmail.com
 
 📍 Khulna, Bangladesh
 
