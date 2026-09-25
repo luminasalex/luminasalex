@@ -137,48 +137,6 @@ My development journey is continuously evolving. I'm learning new technologies, 
 
 ---
 
-<div align="center">"04" — TECHNOLOGY JOURNEY
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=9CA3AF&center=true&vCenter=true&width=750&lines=Learning+is+a+continuous+process.;Today%27s+stack+is+not+tomorrow%27s+limit.;Explore.+Build.+Improve."/></div>
-
-<br>
-
-**🟢 Comfortable With**
-
-```
-HTML                  ████████████████████  100%
-CSS                   ████████████████████  100%
-JavaScript            ████████████████████  100%
-React.js              ███████████████████░   90%
-Tailwind CSS          ███████████████████░   90%
-Bootstrap             █████████████████░░░   85%
-Java                  ████████████████░░░░   80%
-Python                ████████████████░░░░   80%
-PHP                   ████████████████░░░░   80%
-```
-
-**🔵 Growing With**
-
-```
-Next.js               █████████████████░░░   LEARNING
-TypeScript            █████████████████░░░   LEARNING
-Node.js               ████████████████░░░░   LEARNING
-Express.js            ███████████████░░░░░   LEARNING
-MongoDB               ███████████████░░░░░   LEARNING
-Firebase              ███████████████░░░░░   LEARNING
-REST API              ███████████████░░░░░   LEARNING
-Web Security          █████████████░░░░░░░   EXPLORING
-System Design         ████████████░░░░░░░░   EXPLORING
-```
-
-> *These levels are intentionally not permanent. They evolve as I learn.*
-
-<br>
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1600&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&lines=TECHNOLOGY+MODULE+COMPLETE;%3E%3E%3E+SWITCHING+TO+FRONTEND..."/></div>
-
----
-
 <div align="center">"05" — FRONTEND UNIVERSE</div>
 
 <br>
@@ -344,29 +302,6 @@ Build → Break → Fix → Learn → Repeat
 ┌──(alex㉿developer)-[~]
 └─$ _
 ```
-
----
-
-<div align="center">"09" — CURRENTLY LEARNING
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&width=750&lines=Next.js;Advanced+React;TypeScript;Node.js+%26+Express;MongoDB;Firebase;REST+APIs;System+Design;Web+Security"/></div>
-
-<br>
-
-```
-NEXT.JS              → █████████████████░░░  IN PROGRESS
-TYPESCRIPT           → █████████████████░░░  IN PROGRESS
-NODE.JS              → ███████████████░░░░░  IN PROGRESS
-EXPRESS.JS           → ███████████████░░░░░  IN PROGRESS
-MONGODB              → ███████████████░░░░░  IN PROGRESS
-FIREBASE             → ███████████████░░░░░  IN PROGRESS
-WEB SECURITY         → █████████████░░░░░░░  EXPLORING
-SYSTEM DESIGN        → ████████████░░░░░░░░  EXPLORING
-```
-
-<br>
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&lines=KNOWLEDGE+BASE+EXPANDING...;%3E%3E%3E+KEEP+LEARNING;%3E%3E%3E+KEEP+BUILDING"/></div>
 
 ---
 
