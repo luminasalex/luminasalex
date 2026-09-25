@@ -6,6 +6,19 @@
 <img src="https://img.shields.io/badge/STATUS-BUILDING-111111?style=for-the-badge&logo=rocket&logoColor=white"/>
 <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-111111?style=for-the-badge&logo=githubsponsors&logoColor=white"/><br><br>
 
+<a href="https://facebook.com/luminas.alex" target="_blank">
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://instagram.com/luminas_alex" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://twitter.com/luminas_alex" target="_blank">
+<img src="https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://wa.me/+8801913520955" target="_blank">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a><br><br>
+
 <a href="https://ax-alex.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a><a href="https://github.com/luminasalex">
@@ -444,39 +457,6 @@ Khulna Govt. Model School & College
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=700&lines=Have+an+idea%3F;Let%27s+build+something+great.;Let%27s+turn+ideas+into+real+products."/>
 
 <br>
-
-### 🌐 Social Media
-
-<a href="https://facebook.com/luminas.alex" target="_blank">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://instagram.com/luminas_alex" target="_blank">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/luminas_alex" target="_blank">
-<img src="https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/+8801913520955" target="_blank">
-<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<br>
-
-### 💻 Developer Platforms
-
-<a href="https://github.com/luminasalex" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://ax-alex.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:alexhalder2007@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
 
 📧 luminas.alex@gmail.com
 
