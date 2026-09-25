@@ -441,23 +441,58 @@ Khulna Govt. Model School & College
 
 <div align="center">"15" — LET'S CONNECT
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=700&lines=Have+an+idea%3F;Let%27s+build+something+great.;Let%27s+turn+ideas+into+real+products."/><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=700&lines=Have+an+idea%3F;Let%27s+build+something+great.;Let%27s+turn+ideas+into+real+products."/>
 
-<a href="https://ax-alex.vercel.app/">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-FFFFFF?style=for-the-badge&logoColor=000000"/>
-</a><br><br>
+<br>
+
+### 🌐 Social Media
+
+<a href="https://facebook.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://instagram.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@yourusername" target="_blank">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://wa.me/8801XXXXXXXXX" target="_blank">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br>
+
+### 💻 Developer Platforms
+
+<a href="https://github.com/luminasalex" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://ax-alex.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:alexhalder2007@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
 
 📧 luminas.alex@gmail.com
 
 📍 Khulna, Bangladesh
 
-<br>
+<br><br>
 
-<a href="https://github.com/luminasalex">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://ax-alex.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a></div>
+<a href="https://ax-alex.vercel.app/">
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-FFFFFF?style=for-the-badge&logoColor=000000"/>
+</a>
+
+</div>
 
 <br>
 
