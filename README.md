@@ -96,7 +96,7 @@ My development journey is continuously evolving. I'm learning new technologies, 
                                ▼
                   ┌──────────────────────────┐
                   │         BACKEND          │
-                  │ Node • Express • PHP     │
+                  │ Node • Express • TS      │
                   └────────────┬─────────────┘
                                │
                                ▼
@@ -191,7 +191,7 @@ My development journey is continuously evolving. I'm learning new technologies, 
                          │
              ┌───────────┼───────────┐
              ▼           ▼           ▼
-         Node.js      Express      PHP
+         Node.js      Express       TS
              │           │           │
              └───────────┼───────────┘
                          ▼
